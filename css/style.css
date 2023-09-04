@@ -49,6 +49,7 @@ label::after {
     line-height: 2vw;
     margin-top: 5px;
     border: 1px solid black;
+    padding: 0 10vw;
 }
 .form-control:hover {
     box-shadow: 8px 10px rgba(175, 51, 51, 0.247);
